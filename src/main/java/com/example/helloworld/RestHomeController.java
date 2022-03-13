@@ -1,4 +1,4 @@
-package com.example.helloworld.controller;
+package com.example.helloworld;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
